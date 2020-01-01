@@ -1,0 +1,86 @@
+Informative Website for keyboard hobbyists.
+
+Pages:
+ - Home page 
+	- https://www.youtube.com/watch?v=i_kVAxA7-SU
+ - Hobbyists Guide
+	- concise, non-overwhelming information
+	- provide tons of links to the other pages
+	- If you just want a good keyboard, skip to recommended keyboards according to budget 
+	- Starting your hobby 
+		- Things you need to know
+			- switches (most important)
+			- formats (with recommendation on what to choose)
+			- keycaps
+			- useful terminology
+	- Recommendations
+		- Entry Level
+			- future proof, inexpensive and flexible essentials
+		- The Experimentalist
+			- expensive but budget smart, easy key and keycap replacement options
+			- https://www.pcgamingrace.com/products/gmmk-tkl-tenkeyless-brown-switch
+			- o-rings
+			- lubrication
+		- The Collector
+			- various, budget independent recommendations
+			- artisan keycaps
+		- The True Keyboard Warrior
+			- everything custom
+			- what it takes to become a master
+				- formatting (board shape)
+				- electronics
+				- soldering
+				- programming
+				- maths
+			- https://www.youtube.com/watch?v=FSBFCx59fF8
+ - Boards: 
+	- Formats:
+		- 100%
+		- TKL
+		- 60%
+		- 40%
+		- other popular formats
+	- Base Material
+		- How it contributes to typing sensation
+		- Plastic
+		- Wood
+		- Metal
+	- Backlights and RGB
+	- Creating a custom board
+ - Switches: 
+	- How they contribute to typing sensation
+	- Rubber dome
+	- Scissor
+	- Mechanical:
+		- Types:
+			- tactility
+			- clickyness (sound)
+			- weight
+			- travel distance
+			- actuation distance
+		- Brands
+			- Cherry
+			- Gateron
+			- Outemu
+			- Kaihl
+	- Electro capacitive
+	- Buckling spring
+	- Other
+ - Additional Mods
+	- How they contribute to typing sensation
+	- Matching with switches
+	- Keycaps:
+		- profiles
+		- Types of material
+			- PBT
+			- ABS
+			- Metal
+			- Wood
+	- O-rings
+	- Lubrication
+ - Gallery: 
+	- Images that inspire people to build keyboards lol
+
+
+
+https://www.dygma.com/mechanical-switches/the-ultimate-guide-to-mechanical-keyboard-switches-for-2019/
