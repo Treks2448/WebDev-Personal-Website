@@ -78,8 +78,6 @@ Pages:
 			- Wood
 	- O-rings
 	- Lubrication
-	- wrist rest
-	- backlighting and rgb
  - Gallery: 
 	- Images that inspire people to build keyboards lol
 
@@ -87,4 +85,3 @@ Pages:
 
 https://www.dygma.com/mechanical-switches/the-ultimate-guide-to-mechanical-keyboard-switches-for-2019/
 https://www.reddit.com/r/MechanicalKeyboards/comments/ei76yx/gb_gmk_rudy_last_day_to_join_moq_hit/ - backgroud keyboard
-https://www.reddit.com/r/MechanicalKeyboards/comments/eiknb5/first_morning_of_2020/ 60% keyboard
