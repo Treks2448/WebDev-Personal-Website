@@ -4,6 +4,22 @@ body {
     background-color: rgb(252, 255, 250);
 }
 
+table {
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+td,th {
+    padding: 7px;
+    border: solid 1px;
+    border-color: rgb(0, 100, 150);
+}
+
+th {
+    background-color: rgb(200, 240, 250)
+}
+
 .text-container {
     display: grid;
     grid-template-columns: 25% 50% 25%;
@@ -18,7 +34,7 @@ body {
 }
 
 .text-container h1 {
-    
+    color: rgb(0, 100, 150);
 }
 
 .text-container h2 {
@@ -32,9 +48,11 @@ body {
 
 .text-container img {
     width: 50%;
+    padding-right: 10px;
 }
 .hline { 
     width: 100%; 
     height: 2px; 
     background: rgb(200 , 100, 0);
+    margin-bottom: 10px
 }
