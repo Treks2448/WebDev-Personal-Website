@@ -1,31 +1,39 @@
 <html lang="en">
     <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8">
         <title>Keybophile</title> <!-- Title format is: page name - Website name -->
-        <link rel="stylesheet" href="CSS/Theme.css"> <!-- import css style sheet -->        
+        <link rel="stylesheet" href="CSS/Theme.css"> <!-- import css style sheet -->
+        <script src="JS/Fade.js"></script>
     </head>
     <body>
         <div>
             <header>
                 <div>
-                    <img src="Images/Logo.png" alt="Image of the logo"> <!-- TODO: add a logo image-->
                 </div> <!-- logo goes here -->
-                <div>
+                <div class="nav-bar">
                     <nav>
                         <ul>
-                            <li><a href="Guide.html">Guide</a></li>
-                            <li><a href="Boards.html">Boards</a></li>
-                            <li><a href="Switches.html">Switches</a></li>
-                            <li><a href="Modifications.html">Modifications</a></li>
-                            <li><a href="Gallery.html">Gallery</a></li>
+                            <li class="current"><a href=Index.html>HOME</a></li>
+                            <li><a href="Guide.html">GUIDE</a></li>
+                            <li><a href="Boards.html">BOARDS</a></li>
+                            <li><a href="Switches.html">SWITCHES</a></li>
+                            <li><a href="Modifications.html">MODIFICATIONS</a></li>
+                            <li><a href="Gallery.html">GALLERY</a></li>
                         </ul>
                     </nav>
                 </div> <!-- nav bar goes here -->
             </header> <!-- Header holding the logo and the navigation bar of the website -->
         </div> <!-- container for items inside the header -->
-        <div>  
-            <!-- image of nice keyboard in the background -->
-            <!-- Advertise the Guide page -->
-            <!-- Find your preferred keyboard switch, link to Switches page -->
+        <div>
+            <div class="fading-img-container">
+                <img class="fading-img" src="Images/Gallery6.jpg" style="transform: translate(0, -30%);">
+                <img class="fading-img" src="Images/Gallery%207.jpg" style="transform: translate(0, -45%);">
+                <img class="fading-img" src="Images/Gallery5.jpg" style="transform: translate(0, -35%);">
+                <img class="fading-img" src="Images/Gallery3.jpg" style="transform: translate(0, -10%);">
+                <img class="fading-img" src="Images/Gallery4.jpg" style="transform: translate(0, -25%);">
+                <img class="fading-img" src="Images/Gallery2.jpg" style="transform: translate(0, -0%);">
+            </div>
         </div> <!-- container for all information between the header and footer -->
         <div>
             <footer>

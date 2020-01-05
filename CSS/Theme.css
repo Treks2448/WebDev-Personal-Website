@@ -2,6 +2,7 @@ body {
     color: black;
     font-family: "Courier New", monospace;
     background-color: rgb(252, 255, 250);
+    margin: 0px;
 }
 
 table {
@@ -20,11 +21,48 @@ th {
     background-color: rgb(200, 240, 250)
 }
 
-.text-container {
+
+header {
+    background: rgb(0, 100, 150);
+}
+
+.nav-bar {}
+
+.nav-bar nav > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(60, 70, 80);;
+}
+
+.nav-bar nav > ul > li {
+    float: left;
+}
+.nav-bar nav > ul > li a {
+    color: white;
+    text-align: center;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: "Arial", "Helvetica", sans-serif
+}
+
+.current {
+  background-color: rgb(70, 90, 110);
+}
+
+.nav-bar nav > ul > li a:hover {
+  background-color: #111;
+}
+
+@media screen and (min-width: 1000px){
+    .text-container {
     display: grid;
     grid-template-columns: 25% 50% 25%;
     grid-gap: 0px;
     padding: 0px;
+    }
 }
     
 .text-container > div {
@@ -35,6 +73,7 @@ th {
 
 .text-container h1 {
     color: rgb(0, 100, 150);
+    margin: 0px;
 }
 
 .text-container h2 {
@@ -50,9 +89,65 @@ th {
     width: 50%;
     padding-right: 10px;
 }
+
+
+@media screen and (max-width: 500px){
+    .text-container img {
+        width: 100%;
+        padding-right: 10px;
+    }
+}
+
+
 .hline { 
     width: 100%; 
     height: 2px; 
     background: rgb(200 , 100, 0);
     margin-bottom: 10px
 }
+
+.title-container {
+    position: relative;
+    max-height: 300px;
+    overflow: hidden;
+}
+
+.title-background {
+    max-width: 100%;
+    height: auto;
+}
+
+.title-text-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.fading-img-container {
+    position: relative;
+    height: 150px;
+    overflow: hidden;
+}
+
+@media screen and (min-width: 500px){
+    .fading-img-container {
+    position: relative;
+    height: 500px;
+    overflow: hidden;
+    }
+}   
+
+.fading-img {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    transform: translate(0, -50%);
+    width: 100%;
+    height: auto;
+    opacity: 0;
+}
+
