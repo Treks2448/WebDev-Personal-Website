@@ -1,3 +1,4 @@
+/* Formatting for general website elements */
 body {
     color: black;
     font-family: "Courier New", monospace;
@@ -24,7 +25,9 @@ th {
 header {
     background: rgb(0, 100, 150);
 }
+/*//////////////////////////////////////////*/
 
+/* Formatting for everything that goes in the navigation bar *//
 .nav-bar {}
 
 .nav-bar nav > ul {
@@ -48,6 +51,7 @@ header {
     font-family: "Arial", "Helvetica", sans-serif
 }
 
+/* This format is for the logo*/
 .nav-bar nav > ul > li p {
     color: white;
     text-align: center;
@@ -62,6 +66,7 @@ header {
     font-family: "Courier New", monospace;
 }
 
+/* used to highlight the current webpage in the nav bar */
 .current {
   background-color: rgb(70, 90, 110);
 }
@@ -69,7 +74,10 @@ header {
 .nav-bar nav > ul > li a:hover {
   background-color: #111;
 }
+/*//////////////////////////////////////////*/
 
+/* Formatting for article entries on website */
+/* Spaces are added to the sides of text when on a large screen, to make content easier to read */
 @media screen and (min-width: 1080px){
     .text-container {
     display: grid;
@@ -112,13 +120,16 @@ header {
     }
 }
 
+/* horizontal separating line that divides article into sections */
 .hline { 
     width: 100%; 
     height: 2px; 
     background: rgb(200 , 100, 0);
     margin-bottom: 10px
 }
+/*//////////////////////////////////////////*/
 
+/* Formatting for the title text and background image on each page (excluding homepage) */
 .title-container {
     position: relative;
     max-height: 300px;
@@ -126,6 +137,7 @@ header {
 }
 
 .title-background {
+    width: 100%;
     max-width: 100%;
     height: auto;
 }
@@ -139,7 +151,9 @@ header {
     color: white;
     text-shadow: 2px 2px black;
 }
+/*//////////////////////////////////////////*/
 
+/* Homepage fading image formatting */
 .fading-img-container {
     position: relative;
     height: 150px;
@@ -171,7 +185,10 @@ header {
     height: auto;
     opacity: 0;
 }
+/*//////////////////////////////////////////*/
 
+/* Homepage menu formatting */
+/* for phones, sort the menu items horizontally */
 @media screen and (max-width: 500px){
     .menu-container {
     grid-gap: 0px;
@@ -179,7 +196,7 @@ header {
     }
 }
 
-
+/* For displays other than phones, place menu items next to each other */
 @media screen and (min-width: 500px){
     .menu-container {
     display: grid;
@@ -214,7 +231,10 @@ header {
     font-size: 25px;
     padding: 0px;
 }
+/*//////////////////////////////////////////*/
 
+/* Formatting for scaling videos appropriately */
+/* Video container forces a 16:9 ratio, which is standard for most video */
 .video-container {
     width: 100%;
     padding-top: 56.25%;
@@ -229,3 +249,4 @@ header {
     width: 100%;
     height: 100%;
 }
+/*//////////////////////////////////////////*/

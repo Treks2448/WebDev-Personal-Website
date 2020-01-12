@@ -67,6 +67,7 @@ Pages:
 	- Buckling spring
 	- Other
  - Additional Mods
+    - sort into feel and aesthetics and both
 	- How they contribute to typing sensation
 	- Matching with switches
 	- Keycaps:
@@ -77,18 +78,26 @@ Pages:
 			- Metal
 			- Wood
 	- O-rings
-	- Lubrication
+	- Lubrication https://www.youtube.com/watch?v=qSgPKPoFo2k
 	- wrist rest
 	- backlighting and rgb
+    - Braided cable
  - Gallery: 
 	- Images that inspire people to build keyboards lol
 
 
 
 https://www.dygma.com/mechanical-switches/the-ultimate-guide-to-mechanical-keyboard-switches-for-2019/
+https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4284 Ducky One TKL
+https://www.amazon.com/DREVO-Mechanical-Gaming-Keyboard-Backlight/dp/B07SG2KGTP?th=1 DREVO Gramr
+http://xahlee.info/kbd/idiocy_of_happy_hacking_keyboard.html HHKB Pro 2
+https://imgur.com/gallery/Udh2ppc Vortex Race 3
+https://www.reddit.com/r/MechanicalKeyboards/comments/ei4my8/family_photo_before_the_year_ends/ Collection
+
 https://www.reddit.com/r/MechanicalKeyboards/comments/ei76yx/gb_gmk_rudy_last_day_to_join_moq_hit/ - boards backgroud keyboard
-https://www.reddit.com/r/MechanicalKeyboards/comments/ejcjch/my_first_build_album/ switches background keyboard
+https://www.reddit.com/r/MechanicalKeyboards/comments/ekzir6/more_pokemon_keycaps_but_this_time_on_a_quasi_by/ MODIFICATIONS BACKGROUND
 https://www.reddit.com/r/MechanicalKeyboards/comments/ejkiwg/ic_kat_oasis_gb_january_31st/ modifications background
+
 
 https://blog.wooting.nl/the-ultimate-guide-to-keyboard-layouts-and-form-factors/ KEYBOARD FORM FACTORS
 https://deskthority.net/viewtopic.php?t=13999 OVER 100% FORM FACTOR
@@ -123,3 +132,4 @@ https://www.reddit.com/r/MechanicalKeyboards/comments/ejuhfp/first_60_board_anne
 https://www.reddit.com/r/MechanicalKeyboards/comments/ejtuwv/a_wild_salamander_has_appeared/
 https://www.reddit.com/r/MechanicalKeyboards/comments/eiel90/kuro_shiro/
 https://www.reddit.com/r/MechanicalKeyboards/comments/eiib91/when_the_sunlight_hits_right/
+https://www.reddit.com/r/MechanicalKeyboards/comments/ekibnj/gb_kat_specimen_coming_15th_of_january/
